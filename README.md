@@ -42,3 +42,6 @@ This project demonstrates practical experience with:
 * Real-time hardware interfacing
 * Register-level programming
 * Differential drive robotics
+
+## **Video Demonstrations**
+- [Project 2 Donut Ride Demonstration](https://rumble.com/v75i83w-project-2-video-donut-ride.html)
